@@ -1,1 +1,2 @@
 # CMST-Final
+This Project is a website about persuading people to visit Africa for vacation. It has 6 page links on it and it refers to activites, culture, landmarks, and a visiting request. The color design was inspired by the South African flag. A challenge of mine was getting the border of my chart on my visiting page to shrink with the rest of the chart when used on mobile. I learned a lot about my interest in doing web design since this has been my first time dealing with any type of coding.
